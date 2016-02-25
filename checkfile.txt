@@ -1,2 +1,3 @@
-hello everybody 
-next line
+hello everybody |
+next line |
+Changing throug new Pasta remote or new repo ofice pc 25-feb|
